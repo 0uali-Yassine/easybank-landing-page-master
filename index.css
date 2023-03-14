@@ -1,0 +1,22 @@
+*{
+   /* ## Colors*/
+ margin: 1px;
+
+/*### Primary*/
+
+--Dark-Blue: #3a406e;
+--Lime-Green: #31d35c;
+--Bright-Cyan: #2bb7da;
+
+/*### Neutral*/
+
+--Grayish-Blue: #9698a6;
+--Light-Grayish-Blue: #f3f4f6;
+--Ver-Light-Gray: #fafafa;
+--White: hsl(0, 0%, 100%);
+--font-family: 'Public Sans', sans-serif;
+
+}
+
+
+
